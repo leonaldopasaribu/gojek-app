@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">gojek-app</string>
+    <string name="text_issue_number"><u>Issue with number?</u></string>
+</resources>
